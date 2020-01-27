@@ -1,0 +1,27 @@
+# Translation of Stable (latest release) in Spanish (Colombia)
+# This file is distributed under the same license as the Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2016-02-16 16:53:28+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.1.0-alpha\n"
+"Project-Id-Version: Stable (latest release)\n"
+
+#: classes/PodsInit.php:950
+msgid "%s Archives"
+msgstr "Archivos de %s"
+
+#: classes/PodsInit.php:947 ui/admin/setup-edit.php:386
+msgid "Set featured image"
+msgstr "Establecer como imagen destacada"
+
+#: ui/fields/color.php:9
+msgid "Default"
+msgstr "Por defecto"
+
+#: components/Pages.php:396
+msgid "Page"
+msgstr "Página"

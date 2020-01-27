@@ -1,0 +1,4 @@
+[21-Jan-2020 11:25:48 America/Bogota] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/kingly/public_html/wp-content/themes/twentytwenty/404.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/kingly/public_html/wp-content/themes/twentytwenty/404.php on line 10

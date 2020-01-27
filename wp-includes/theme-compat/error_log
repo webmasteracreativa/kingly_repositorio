@@ -1,0 +1,4 @@
+[06-Jun-2018 13:02:54 America/Bogota] PHP Fatal error:  Uncaught Error: Call to undefined function post_class() in /home/kingly/public_html/wp-includes/theme-compat/embed-content.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/kingly/public_html/wp-includes/theme-compat/embed-content.php on line 13

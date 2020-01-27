@@ -1,0 +1,359 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Betheme\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-01-21 21:57+0000\n"
+"PO-Revision-Date: 2019-01-21 21:57+0000\n"
+"Last-Translator: acreativa <webmaster@acreativa.com>\n"
+"Language-Team: Español\n"
+"Language: es_ES\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.2.0; wp-4.9.9"
+
+#: ../betheme/header-shop.php:172 ../betheme/functions/theme-functions.php:957
+msgid "Home"
+msgstr ""
+
+#: ../betheme/404.php:10
+msgid "Ooops... Error 404"
+msgstr ""
+
+#: ../betheme/404.php:11
+msgid "We are sorry, but the page you are looking for does not exist."
+msgstr ""
+
+#: ../betheme/404.php:12
+msgid "Please check entered address and try again or "
+msgstr ""
+
+#: ../betheme/404.php:13
+msgid "go to homepage"
+msgstr ""
+
+#: ../betheme/index.php:68 ../betheme/template-portfolio.php:55
+#: ../betheme/taxonomy-portfolio-types.php:43
+msgid "Filter by"
+msgstr ""
+
+#: ../betheme/index.php:69 ../betheme/includes/content-single.php:57
+msgid "Tags"
+msgstr ""
+
+#: ../betheme/index.php:70
+msgid "Authors"
+msgstr ""
+
+#: ../betheme/index.php:71 ../betheme/template-portfolio.php:56
+#: ../betheme/taxonomy-portfolio-types.php:44
+#: ../betheme/includes/content-single.php:59
+#: ../betheme/includes/content-single-portfolio.php:71
+#: ../betheme/woocommerce/content-single-product.php:75
+msgid "Show all"
+msgstr ""
+
+#: ../betheme/index.php:72 ../betheme/template-portfolio.php:57
+#: ../betheme/taxonomy-portfolio-types.php:45
+#: ../betheme/includes/content-single.php:58
+#: ../betheme/includes/content-single-portfolio.php:70
+#: ../betheme/includes/content-post.php:18
+msgid "Categories"
+msgstr ""
+
+#: ../betheme/index.php:73 ../betheme/template-portfolio.php:58
+#: ../betheme/taxonomy-portfolio-types.php:46
+msgid "All"
+msgstr ""
+
+#: ../betheme/index.php:216 ../betheme/search.php:83
+msgid "&larr; Older Entries"
+msgstr ""
+
+#: ../betheme/index.php:217 ../betheme/search.php:84
+msgid "Newer Entries &rarr;"
+msgstr ""
+
+#: ../betheme/comments.php:9
+msgid ""
+"This post is password protected. Enter the password to view any comments."
+msgstr ""
+
+#: ../betheme/comments.php:18
+msgid "Comment"
+msgstr ""
+
+#: ../betheme/comments.php:20
+msgid "Comments"
+msgstr ""
+
+#: ../betheme/comments.php:31
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: ../betheme/comments.php:32
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: ../betheme/comments.php:39
+msgid "Comments are closed."
+msgstr ""
+
+#. Name of the template
+msgid "Under Construction"
+msgstr ""
+
+#: ../betheme/under-construction.php:27
+msgid "days"
+msgstr ""
+
+#: ../betheme/under-construction.php:28
+msgid "hours"
+msgstr ""
+
+#: ../betheme/under-construction.php:29
+msgid "minutes"
+msgstr ""
+
+#: ../betheme/under-construction.php:30
+msgid "seconds"
+msgstr ""
+
+#. Name of the template
+msgid "Portfolio"
+msgstr ""
+
+#: ../betheme/search.php:12
+msgid "Ooops..."
+msgstr ""
+
+#: ../betheme/search.php:13
+msgid "No results found for:"
+msgstr ""
+
+#: ../betheme/search.php:15 ../betheme/single-download.php:14
+#: ../betheme/includes/content-single.php:55
+#: ../betheme/includes/content-single-portfolio.php:68
+#: ../betheme/includes/content-post.php:16
+msgid "Published by"
+msgstr ""
+
+#: ../betheme/search.php:16 ../betheme/single-download.php:15
+#: ../betheme/includes/content-single.php:56
+#: ../betheme/includes/content-single-portfolio.php:69
+#: ../betheme/includes/content-post.php:17
+msgid "at"
+msgstr ""
+
+#: ../betheme/search.php:17 ../betheme/includes/content-single.php:61
+#: ../betheme/includes/content-single-portfolio.php:73
+#: ../betheme/includes/content-portfolio.php:15
+#: ../betheme/includes/content-post.php:20
+msgid "Read more"
+msgstr ""
+
+#. Name of the template
+msgid "Blank Page"
+msgstr ""
+
+#: ../betheme/header.php:127
+msgid "results found for:"
+msgstr ""
+
+#. Name of the template
+msgid "Archives"
+msgstr ""
+
+#: ../betheme/template-archives.php:29
+msgid "Available Pages"
+msgstr ""
+
+#: ../betheme/template-archives.php:36
+msgid "The 20 latest posts"
+msgstr ""
+
+#: ../betheme/template-archives.php:52
+msgid "Archives by Subject"
+msgstr ""
+
+#: ../betheme/template-archives.php:68
+msgid "Archives by Month"
+msgstr ""
+
+#: ../betheme/style.php:718
+msgid "Before"
+msgstr ""
+
+#: ../betheme/style.php:719
+msgid "After"
+msgstr ""
+
+#: ../betheme/searchform.php:10 ../betheme/includes/header-top-bar-right.php:36
+#: ../betheme/includes/header-creative.php:63
+#: ../betheme/includes/header-side-slide.php:148
+msgid "Enter your search"
+msgstr ""
+
+#. Name of the template
+msgid "Sitemap"
+msgstr ""
+
+#: ../betheme/functions/widget-functions.php:45
+msgid "Custom sidebar created in Theme Options."
+msgstr ""
+
+#: ../betheme/functions/widget-functions.php:60
+msgid "Appears in the Footer section of the site."
+msgstr ""
+
+#: ../betheme/functions/widget-functions.php:74
+msgid "Appears in the Sliding Top section of the site."
+msgstr ""
+
+#: ../betheme/functions/widget-functions.php:86
+msgid ""
+"Main sidebar for Search page that appears on the right. Leave it empty to "
+"use Full Width layout."
+msgstr ""
+
+#: ../betheme/functions/widget-functions.php:97
+msgid ""
+"Main sidebar for bbPress pages that appears on the right. Leave it empty to "
+"use Full Width layout."
+msgstr ""
+
+#: ../betheme/functions/widget-functions.php:108
+msgid ""
+"Main sidebar for BuddyPress pages that appears on the right. Leave it empty "
+"to use Full Width layout."
+msgstr ""
+
+#: ../betheme/functions/widget-functions.php:119
+msgid ""
+"Main sidebar for The Events Calendar pages that appears on the right. Leave "
+"it empty to use Full Width layout."
+msgstr ""
+
+#: ../betheme/functions/widget-functions.php:130
+msgid ""
+"Main sidebar for Easy Digital Downloads single pages that appears on the "
+"right. Leave it empty to use Full Width layout."
+msgstr ""
+
+#: ../betheme/functions/widget-functions.php:141
+msgid ""
+"Main sidebar for WooCommerce pages that appears on the right. Leave it empty "
+"to use Full Width layout."
+msgstr ""
+
+#: ../betheme/functions/widget-functions.php:167
+msgid ""
+"Sidebar for Blog Category. Appears only when you select sidebar for Blog."
+msgstr ""
+
+#: ../betheme/functions/widget-functions.php:185
+msgid "Appears on Portfolio Category Page."
+msgstr ""
+
+#: ../betheme/functions/widget-recent-comments.php:32
+msgid "commented on"
+msgstr ""
+
+#: ../betheme/functions/theme-functions.php:559
+msgid "Share"
+msgstr ""
+
+#: ../betheme/functions/theme-functions.php:732
+msgid "Prev page"
+msgstr ""
+
+#: ../betheme/functions/theme-functions.php:733
+msgid "Next page"
+msgstr ""
+
+#: ../betheme/functions/theme-functions.php:734
+msgid "Load more"
+msgstr ""
+
+#: ../betheme/functions/theme-functions.php:830
+#, php-format
+msgid "View all posts filed under %s"
+msgstr ""
+
+#: ../betheme/functions/theme-functions.php:2006
+msgid "comment"
+msgstr ""
+
+#: ../betheme/functions/theme-functions.php:2007
+msgid "comments"
+msgstr ""
+
+#: ../betheme/functions/theme-functions.php:2008
+msgid "comments off"
+msgstr ""
+
+#: ../betheme/includes/content-single.php:60
+#: ../betheme/includes/content-single-portfolio.php:72
+msgid "Related posts"
+msgstr "Más Bulldogs"
+
+#: ../betheme/includes/content-single-portfolio.php:74
+#: ../betheme/includes/content-portfolio.php:16
+msgid "Client"
+msgstr ""
+
+#: ../betheme/includes/content-single-portfolio.php:75
+#: ../betheme/includes/content-portfolio.php:17
+msgid "Date"
+msgstr ""
+
+#: ../betheme/includes/content-single-portfolio.php:76
+#: ../betheme/includes/content-portfolio.php:18
+msgid "Website"
+msgstr ""
+
+#: ../betheme/includes/content-single-portfolio.php:77
+#: ../betheme/includes/content-portfolio.php:19
+msgid "View website"
+msgstr ""
+
+#: ../betheme/includes/content-single-portfolio.php:78
+msgid "Task"
+msgstr ""
+
+#: ../betheme/includes/header-single-intro.php:73
+msgid "parallax background"
+msgstr ""
+
+#: ../betheme/includes/header-creative.php:2
+#: ../betheme/includes/header-side-slide.php:205
+#: ../betheme/includes/include-wpml.php:55
+#: ../betheme/includes/header-top-area.php:1
+msgid "No translations available for this page"
+msgstr ""
+
+#: ../betheme/includes/content-post.php:19
+msgid "Do you like it?"
+msgstr ""
+
+#. Name of the theme
+msgid "Betheme Child"
+msgstr ""
+
+#. Description of the theme
+msgid "Child Theme for Betheme - Premium WordPress Theme"
+msgstr ""
+
+#. URI of the theme
+msgid "http://themes.muffingroup.com/betheme"
+msgstr ""
+
+#. Author of the theme
+msgid "Muffin group"
+msgstr ""
+
+#. Author URI of the theme
+msgid "http://muffingroup.com"
+msgstr ""

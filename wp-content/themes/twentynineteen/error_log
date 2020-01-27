@@ -1,0 +1,5 @@
+[09-Dec-2019 16:36:51 America/Bogota] PHP Notice:  Undefined index: wp_version in /home/kingly/public_html/wp-content/themes/twentynineteen/functions.php on line 15
+[09-Dec-2019 16:36:51 America/Bogota] PHP Fatal error:  Uncaught Error: Call to undefined function get_template_directory() in /home/kingly/public_html/wp-content/themes/twentynineteen/functions.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/kingly/public_html/wp-content/themes/twentynineteen/functions.php on line 16

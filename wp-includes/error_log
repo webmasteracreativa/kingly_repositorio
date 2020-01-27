@@ -1,0 +1,14 @@
+[19-Nov-2018 22:47:22 America/Bogota] PHP Fatal error:  Uncaught Error: Call to undefined function is_robots() in /home/kingly/public_html/wp-includes/template-loader.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/kingly/public_html/wp-includes/template-loader.php on line 28
+[20-Nov-2018 08:52:36 America/Bogota] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/kingly/public_html/wp-includes/locale.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/kingly/public_html/wp-includes/locale.php on line 10
+[30-Nov-2018 19:48:44 America/Bogota] PHP Fatal error:  Class 'Walker' not found in /home/kingly/public_html/wp-includes/class-walker-nav-menu.php on line 17
+[31-Jan-2019 16:07:04 America/Bogota] PHP Fatal error:  Class 'Walker' not found in /home/kingly/public_html/wp-includes/class-walker-nav-menu.php on line 17
+[26-Feb-2019 21:33:24 America/Bogota] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/kingly/public_html/wp-includes/locale.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/kingly/public_html/wp-includes/locale.php on line 10

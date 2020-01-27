@@ -1,0 +1,218 @@
+@import url('https://fonts.googleapis.com/css?family=Calistoga&display=swap');
+
+body,html{
+	overflow-x: hidden;
+}
+input,textarea{
+	display: block;
+    width: 100%;
+    height: calc(1.5em + .75rem + 2px);
+    padding: .375rem .75rem;
+    font-size: 1rem;
+    font-weight: 400;
+}
+body{
+	background: #003E2F;
+	color: white;
+	a{
+		color: white;
+	}
+}
+footer{
+	.tel{
+		font-size: 36px; 
+		@media screen and (max-width: 992px){
+			display: block;
+			text-align: center;
+			font-size: 26px;
+			padding: 10px 0;
+		}
+	}
+}
+.banner{
+	min-height: 100vh;
+    background: url(img/bg-gracias.png) no-repeat calc(100% - 25%) center /700px;
+	.row{
+		min-height: 100vh;
+	}
+	@media screen and (max-width: 992px) {
+		background: none;
+	}
+	h3{
+		span{
+			color: #F5C662;
+			display: block;
+			padding: 5px 0;
+		}
+	}
+}
+.banner-secundario{
+	background:#0A2C23;
+}
+.button{
+	display: inline-block;
+	border-radius: 40px;
+	padding: 5px 20px;
+	background: #F5C662;
+	color:#003E2F;
+	border: none;
+	width: auto;
+}
+textarea{
+	background: rgba(255,255,255,0.5);
+	min-height: 150px;
+	color: white;
+	border: none;
+	border-radius: 10px;
+	&:focus{
+		outline: none;
+		box-shadow: none;
+		background: rgba(255,255,255,0.5);
+	}
+}
+input{
+	border-radius: 50px;
+	background: rgba(255,255,255,0.5);
+	border: none;
+	color: white;
+	&:focus{
+		outline: none;
+		box-shadow: none;
+		background: rgba(255,255,255,0.5);
+	}
+}
+.item{
+	img{
+		max-width: 100px;
+		margin-bottom: 30px;
+	}
+	.text{
+		position: relative;
+		min-height: 200px;
+	}
+	h2.title{
+		position: absolute;
+		writing-mode: vertical-lr;
+		transform: rotate(180deg);
+		margin: 0;
+	}
+}
+.video-responsive {
+    width: 100%;
+    height: 0;
+    overflow: hidden;
+    padding-bottom: 56.25%;
+    padding-top: 30px;
+    position: relative;
+}
+.video-responsive iframe, .video-responsive object, .video-responsive embed {
+    height: 100%;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 100%;
+}
+input::-webkit-input-placeholder,textarea::-webkit-input-placeholder { /* Edge */
+  color: white;
+}
+
+input:-ms-input-placeholder,textarea:-ms-input-placeholder { /* Internet Explorer 10-11 */
+  color: white;
+}
+
+input::placeholder,textarea::placeholder {
+  color: white;
+}
+ h2,h3,h4,h5,h6{
+ 	font-family: 'Calistoga', cursive;
+ }
+.under-line{
+	border-bottom: solid 4px white;
+}
+hr{
+	border-color: rgba(white,0.5);
+}
+.top{
+	margin-top: -50px;
+	position: relative;
+	z-index: 1;
+}
+.gracias{
+	position: relative;
+	h1{
+		
+		padding-top: 20px;
+	}
+	h2{
+		color: silver;
+		padding-bottom: 20px;
+	}
+	.text-gracias{
+		a.btn{
+			background: #F5C662;
+			border-radius: 50px;
+			color:#003E2F;
+			font-weight: bold;
+			&:hover{
+				border:solid 1px white;
+				background: none;
+				color:#F5C662;
+			}
+		}
+		a.redes{
+			padding: 20px 5px;
+			&:hover{
+				color:#F5C662;
+			}
+		}
+	}
+	&:before {
+		content: "";
+	    top: 50%;
+	    right: 0;
+	    opacity: 1;
+	    width: 50%;
+	    height: 100%;
+	    display: none;
+	    position: absolute;
+	    transform: translateY(-50%);
+	    background: url(img/bg-gracias.png) no-repeat center right/contain;
+	    @media screen and (min-width: 768px) {
+	    	display: block;
+	    }
+	}
+}
+.alert{
+	display: none;
+}
+.parsley-errors-list{
+	margin-bottom: 0;
+	color: #c11212;
+}
+.wp{
+	display: block;
+	background: url(img/wp.png) no-repeat center center / contain;
+	width: 60px;
+	height: 60px;
+	position: fixed;
+	bottom: 15px;
+	right: 15px;
+}
+.btn-banner{
+	margin:0; 
+	@media screen and (min-width: 1500px){
+		margin: 0 0% 30% 0;
+	}
+	@media screen and (min-width: 768px){
+		margin: 0 10% 15% 0;
+	}
+}
+.text-banner{
+	padding-top: 30px;
+	max-width: 320px;
+    margin-bottom: 10%;
+	@media screen and (min-width: 1500px){
+		margin-right: -150px;
+    	margin-bottom: 22%;
+	}
+}
