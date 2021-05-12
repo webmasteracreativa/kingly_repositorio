@@ -39,7 +39,7 @@
     "webpack-stream": "^3.1.0"
   },
   "dependencies": {
-    "chart.js": "^2.7.0",
+    "chart.js": "^2.9.4",
     "create-react-class": "^15.6.2",
     "dompurify": "^1.0.2",
     "react": "^16.0.0",
